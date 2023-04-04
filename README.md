@@ -5,6 +5,7 @@ This repository contains a very simple Python program that uses Pyrogram & OpenA
 ## Running
 
 ```bash
+pip3 install -U pyrogram openai tgcrypto
 git clone https://github.com/Gusarich/gpt-olya.git
 cd gpt-olya
 python3 src/main.py
